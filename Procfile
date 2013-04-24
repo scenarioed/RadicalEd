@@ -1,1 +1,1 @@
-web: bin/hubot -a irc -n radical_edward
+web: bin/hubot -a irc -n RadicalEd
